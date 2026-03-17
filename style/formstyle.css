@@ -1,0 +1,20 @@
+nav li a{
+    
+    margin: 10px;
+    text-decoration: none;
+}
+
+nav li{
+    list-style: none;
+    display:inline;
+}
+
+nav li :hover{
+    background-color: aqua;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+
+footer{
+    text-align: center;
+}

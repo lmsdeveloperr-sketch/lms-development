@@ -1,0 +1,19 @@
+nav ul li a{
+    text-decoration: none;
+    margin: 8px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+}
+
+nav ul li :hover{
+    background-color: brown;
+    padding: 5px 10px;
+    
+}
+
+footer{
+    text-align: center;
+}
