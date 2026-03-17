@@ -1,4 +1,16 @@
 .jon{
     border-radius: 25px;
+    border: solid rgb(200, 200, 236) 5px;
+}
+
+.btn{
+    padding: 15px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 90px;
+    border: 7px solid blue;
+    font-size: 32px;
+    font-style: italic;
+
 
 }
